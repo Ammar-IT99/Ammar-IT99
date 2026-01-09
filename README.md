@@ -1,7 +1,15 @@
 - 👋 Hi, I’m @Ammar-IT99
-- 👀 I’m interested in flutter , mobile developer  
-- 🌱 I’m currently learning flutter and dart language. 
-- 📫 How to reach me .. phone : 00201032844531
-- email : ammaray2319@gmail.com.com
-- 
+I’m Ammar Hussein, an Information Technology Specialist with extensive experience in various fields:
+
+Installation and configuration of security camera systems (IP Cameras & NVR Systems)
+
+Network setup and electronic device configuration
+
+Mobile app and web development
+
+Technical support and IT consulting
+
+I have worked with several companies in Egypt and Saudi Arabia, gaining strong hands-on experience in advanced systems and delivering professional technical solutions.
+
+
 
